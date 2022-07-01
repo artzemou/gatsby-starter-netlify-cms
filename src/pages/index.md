@@ -1,16 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: " pour générer un Lorem Ipsum irréprochable."
+image: /img/istockphoto-1255388711-1024x1024.jpg
 heading: Hello word
 subheading: ola senorita
 mainpitch:
   title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: >+
+    Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la
+    majeure partie d'entre elles a été altérée par l'addition d'humour ou de
+    mots aléatoires qui ne ressemblent pas une seconde à du texte standard. Si
+    vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu'il
+    n'y a rien d'embarrassant caché dans le texte. Tous les générateurs de Lorem
+    Ipsum sur Internet tendent à reproduire le même extrait sans fin, ce qui
+    fait de lipsum.com le seul vrai générateur de Lorem Ipsum. Iil utilise un
+    dictionnaire de plus de 200 mots latins, en combinaison de plusieurs
+    structures de phrases, pour générer un Lorem Ipsum irréprochable. Le Lorem
+    Ipsum ainsi obtenu ne contient aucune répétition, ni ne contient des mots
+    farfelus, ou des touches d'humour.
+
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -44,12 +52,30 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là,
+    mais la majeure partie d'entre elles a été altérée par l'addition d'humour
+    ou de mots aléatoires qui ne ressemblent pas une seconde à du texte
+    standard. Si vous voulez utiliser un passage du Lorem Ipsum, vous devez être
+    sûr qu'il n'y a rien d'embarrassant caché dans le texte. Tous les
+    générateurs de Lorem Ipsum sur Internet tendent à reproduire le même extrait
+    sans fin, ce qui fait de lipsum.com le seul vrai générateur de Lorem Ipsum.
+    Iil utilise un dictionnaire de plus de 200 mots latins, en combinaison de
+    plusieurs structures de phrases, pour générer un Lorem Ipsum irréprochable.
+    Le Lorem Ipsum ainsi obtenu ne contient aucune répétition, ni ne contient
+    des mots farfelus, ou des touches d'humour.
+  description: >+
+    Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la
+    majeure partie d'entre elles a été altérée par l'addition d'humour ou de
+    mots aléatoires qui ne ressemblent pas une seconde à du texte standard. Si
+    vous voulez utiliser un passage du Lorem Ipsum, vous devez être sûr qu'il
+    n'y a rien d'embarrassant caché dans le texte. Tous les générateurs de Lorem
+    Ipsum sur Internet tendent à reproduire le même extrait sans fin, ce qui
+    fait de lipsum.com le seul vrai générateur de Lorem Ipsum. Iil utilise un
+    dictionnaire de plus de 200 mots latins, en combinaison de plusieurs
+    structures de phrases, pour générer un Lorem Ipsum irréprochable. Le Lorem
+    Ipsum ainsi obtenu ne contient aucune répétition, ni ne contient des mots
+    farfelus, ou des touches d'humour.
+
 main:
   heading: Great coffee with no compromises
   description: >
