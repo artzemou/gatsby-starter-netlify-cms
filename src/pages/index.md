@@ -5,7 +5,7 @@ image: /img/istockphoto-1255388711-1024x1024.jpg
 heading: Hello word
 subheading: ola senorita
 mainpitch:
-  title: Why Kaldi
+  title: Lorem
   description: >+
     Plusieurs variations de Lorem Ipsum peuvent être trouvées ici ou là, mais la
     majeure partie d'entre elles a été altérée par l'addition d'humour ou de
