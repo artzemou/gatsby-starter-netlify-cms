@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: " pour générer un Lorem Ipsum irréprochable."
-image: /img/istockphoto-1255388711-1024x1024.jpg
+image: /img/téléchargement.jpeg
 heading: Hello word
 subheading: ola senorita
 mainpitch:
