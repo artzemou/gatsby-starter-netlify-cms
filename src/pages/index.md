@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: " pour générer un Lorem Ipsum irréprochable."
-image: /img/téléchargement.jpeg
+image: /img/024c861b86c161a0fad7c2a43608717a-apartment-living-bicycle.jpg
 heading: Hello word
 subheading: ola senorita
 mainpitch:
