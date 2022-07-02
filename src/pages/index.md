@@ -25,7 +25,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/024c861b86c161a0fad7c2a43608717a-apartment-living-bicycle.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
