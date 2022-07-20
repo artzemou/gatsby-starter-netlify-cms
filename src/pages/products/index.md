@@ -2,7 +2,7 @@
 heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
-title: Our Coffee
+title: ???
 image: /img/arabesque-door.png
 description: Le Lorem Ipsum ainsi obtenu ne contient aucune répétition, ni ne
   contient des mots farfelus, ou des touches d'humour.
